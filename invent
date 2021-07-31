@@ -1,0 +1,4 @@
+#20.39.35.58 ansible_connection=ssh  ansible_user=azureuser ansible_ssh_pass=Password@123
+[linux_docker]
+20.39.35.58 ansible_connection=ssh  ansible_user=azureuser ansible_ssh_pass=Password@123
+
